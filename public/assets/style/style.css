@@ -1,0 +1,12 @@
+div {
+    background-color: #bdd3ff;
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.home {
+    padding: 20px;
+}
